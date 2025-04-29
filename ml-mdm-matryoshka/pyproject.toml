@@ -40,7 +40,7 @@ cpu = [
     "tensorflow==2.5.0", 
 ] 
 gpu = [ 
-    "torch==2.2.2+cu111", 
+    "torch==2.6.0", 
     "tensorflow-gpu==2.5.0", 
 ]
 data_prep = [
